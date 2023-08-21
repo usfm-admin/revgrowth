@@ -1,0 +1,1134 @@
+a.two:hover {
+        color: black;
+      }
+a.two {
+        text-align: center;
+margin-left: 80px;
+      }
+a.one:hover {
+        color: black;
+      }
+.new-file-with-logo .group-9 {
+  position: absolute;
+  width: 435px;
+  height: 75px;
+  top: 586px;
+  left: 182px;
+  margin-left: 400px;
+  margin-top: 444px;
+}
+body { zoom:80%; }
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: none;
+    color: #86c232;
+}
+.new-file-with-logo {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.new-file-with-logo .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 9254px;
+  position: relative;
+}
+
+.new-file-with-logo .overlap {
+  position: absolute;
+  width: 2056px;
+  height: 1276px;
+  top: 192px;
+  left: -10409px;
+}
+
+.new-file-with-logo .smartphone {
+  position: absolute;
+  width: 2017px;
+  height: 1113px;
+  top: 0;
+  left: 39px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .change-color {
+  position: absolute;
+  width: 1996px;
+  height: 1102px;
+  top: 174px;
+  left: 0;
+  object-fit: cover;
+}
+
+.new-file-with-logo .overlap-group {
+  position: absolute;
+  width: 1957px;
+  height: 994px;
+  top: 8260px;
+  left: -19px;
+}
+
+.new-file-with-logo .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 883px;
+  top: 0;
+  left: 19px;
+  background-color: #060606;
+}
+
+.new-file-with-logo .rectangle-2 {
+  position: absolute;
+  width: 1957px;
+  height: 133px;
+  top: 861px;
+  left: 0;
+  background-color: #151414;
+}
+
+.new-file-with-logo .text-wrapper {
+  position: absolute;
+  width: 1975px;
+  top: 906px;
+  left: 442px;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .group {
+  position: absolute;
+  width: 1919px;
+  height: 733px;
+  top: 75px;
+  left: 20px;
+}
+
+.new-file-with-logo .overlap-2 {
+  position: absolute;
+  width: 1925px;
+  height: 2891px;
+  top: 115px;
+  left: -3px;
+}
+
+.new-file-with-logo .overlap-wrapper {
+  position: absolute;
+  width: 1923px;
+  height: 990px;
+  top: 0;
+  left: 2px;
+}
+
+.new-file-with-logo .overlap-3 {
+  position: relative;
+  width: 1920px;
+  height: 990px;
+  left: 1px;
+  background-image: url(./img/new-color-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.new-file-with-logo .overlap-4 {
+  position: absolute;
+  width: 1705px;
+  height: 862px;
+  top: 0;
+  left: 171px;
+}
+
+.new-file-with-logo .mask-group {
+  position: absolute;
+  width: 927px;
+  height: 779px;
+  top: 0;
+  left: 778px;
+}
+
+.new-file-with-logo .blast-your-calendar {
+  position: absolute;
+  width: 829px;
+  top: 159px;
+  left: 13px;
+  font-family: "HK Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 84px;
+  letter-spacing: 4.5px;
+  line-height: 94.5px;
+}
+
+.new-file-with-logo .group-2 {
+  position: absolute;
+  width: 1579px;
+  height: 120px;
+  top: 742px;
+  left: 0;
+}
+
+.new-file-with-logo .overlap-group-wrapper {
+  position: absolute;
+  width: 504px;
+  height: 120px;
+  top: 0;
+  left: 0;
+}
+
+.new-file-with-logo .div-wrapper {
+  position: relative;
+  width: 502px;
+  height: 120px;
+  background-color: #151414;
+  border: 1px solid;
+  border-color: #767a7c;
+}
+
+.new-file-with-logo .text-wrapper-2 {
+  position: absolute;
+  top: 43px;
+  left: 44px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .group-3 {
+  position: absolute;
+  width: 505px;
+  height: 120px;
+  top: 0;
+  left: 538px;
+}
+
+.new-file-with-logo .overlap-5 {
+  position: relative;
+  width: 503px;
+  height: 120px;
+  background-color: #151414;
+  border: 1px solid;
+  border-color: #767a7c;
+}
+
+.new-file-with-logo .text-wrapper-3 {
+  position: absolute;
+  top: 43px;
+  left: 71px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .group-4 {
+  position: absolute;
+  width: 504px;
+  height: 120px;
+  top: 0;
+  left: 1077px;
+}
+
+.new-file-with-logo .text-wrapper-4 {
+  top: 43px;
+  left: 40px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  line-height: 31.5px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.new-file-with-logo .group-5 {
+  position: absolute;
+  width: 435px;
+  height: 75px;
+  top: 586px;
+  left: 182px;
+}
+
+.new-file-with-logo .explore-our-services-wrapper {
+  position: relative;
+  height: 77px;
+  top: -1px;
+  left: -1px;
+  background-color: #86c232;
+  border-radius: 4px;
+}
+
+.new-file-with-logo .explore-our-services {
+  position: absolute;
+  width: 370px;
+  top: 25px;
+  left: 33px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.new-file-with-logo .group-wrapper {
+  position: absolute;
+  width: 1920px;
+  height: 1172px;
+  top: 845px;
+  left: 0;
+}
+
+.new-file-with-logo .group-6 {
+  height: 1172px;
+}
+
+.new-file-with-logo .overlap-group-2 {
+  position: relative;
+  width: 1920px;
+  height: 1172px;
+}
+
+.new-file-with-logo .background {
+  position: absolute;
+  width: 1920px;
+  height: 953px;
+  top: 145px;
+  left: 0;
+  background-color: #151414;
+}
+
+.new-file-with-logo .group-7 {
+  position: absolute;
+  width: 557px;
+  height: 434px;
+  top: 401px;
+  left: 1111px;
+}
+
+.new-file-with-logo .why-choose-us {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "HK Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 96px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .with-the-right {
+  position: absolute;
+  width: 520px;
+  top: 140px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 48.7px;
+}
+
+.new-file-with-logo .brain {
+  position: absolute;
+  width: 968px;
+  height: 1172px;
+  top: 0;
+  left: 48px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-8 {
+  position: absolute;
+  width: 1920px;
+  height: 948px;
+  top: 1943px;
+  left: 0;
+  background-color: #060606;
+}
+
+.new-file-with-logo .group-9 {
+  position: absolute;
+  width: 534px;
+  height: 557px;
+  top: 159px;
+  left: 318px;
+}
+
+.new-file-with-logo .supercharged-email {
+  position: absolute;
+  width: 530px;
+  top: 173px;
+  left: 0;
+  font-family: "HK Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.new-file-with-logo .p {
+  position: absolute;
+  width: 442px;
+  top: 357px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .img {
+  position: absolute;
+  width: 134px;
+  height: 129px;
+  top: 0;
+  left: 0;
+}
+
+.new-file-with-logo .new {
+  position: absolute;
+  width: 833px;
+  height: 804px;
+  top: 0;
+  left: 952px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .overlap-6 {
+  position: absolute;
+  width: 1925px;
+  height: 2050px;
+  top: 3954px;
+  left: -3px;
+}
+
+.new-file-with-logo .group-10 {
+  position: absolute;
+  width: 1922px;
+  height: 1107px;
+  top: 943px;
+  left: 3px;
+}
+
+.new-file-with-logo .overlap-7 {
+  position: relative;
+  width: 1920px;
+  height: 1107px;
+  background-color: #151414;
+}
+
+.new-file-with-logo .group-11 {
+  position: absolute;
+  width: 1679px;
+  height: 661px;
+  top: 316px;
+  left: 122px;
+}
+
+.new-file-with-logo .overlap-8 {
+  position: absolute;
+  width: 536px;
+  height: 555px;
+  top: 0;
+  left: 1141px;
+}
+
+.new-file-with-logo .text-wrapper-5 {
+  position: absolute;
+  top: 264px;
+  left: 164px;
+  font-family: "Oswald", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 21px;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .div-2 {
+  position: absolute;
+  width: 536px;
+  height: 555px;
+  top: 0;
+  left: 0;
+  background-color: #060606;
+}
+
+.new-file-with-logo .group-12 {
+  position: absolute;
+  width: 405px;
+  height: 302px;
+  top: 127px;
+  left: 68px;
+}
+
+.new-file-with-logo .supercharged-volume {
+  position: absolute;
+  width: 401px;
+  top: 108px;
+  left: 0;
+  font-family: "HK Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.new-file-with-logo .group-13 {
+  position: absolute;
+  width: 105px;
+  height: 78px;
+  top: 0;
+  left: 148px;
+}
+
+.new-file-with-logo .text-wrapper-6 {
+  position: absolute;
+  width: 389px;
+  top: 176px;
+  left: 6px;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .overlap-group-3 {
+  position: absolute;
+  width: 535px;
+  height: 555px;
+  top: 106px;
+  left: 571px;
+  background-color: #060606;
+}
+
+.new-file-with-logo .group-14 {
+  position: relative;
+  width: 463px;
+  height: 355px;
+  top: 81px;
+  left: 38px;
+}
+
+.new-file-with-logo .campaign-management {
+  position: absolute;
+  width: 421px;
+  top: 129px;
+  left: 19px;
+  font-family: "HK Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.new-file-with-logo .text-wrapper-7 {
+  position: absolute;
+  width: 459px;
+  top: 197px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .group-15 {
+  position: absolute;
+  width: 113px;
+  height: 99px;
+  top: 0;
+  left: 173px;
+}
+
+.new-file-with-logo .group-16 {
+  position: relative;
+  width: 436px;
+  height: 411px;
+  top: 72px;
+  left: 52px;
+}
+
+.new-file-with-logo .target-market {
+  position: absolute;
+  width: 338px;
+  top: 116px;
+  left: 47px;
+  font-family: "HK Grotesk-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.new-file-with-logo .text-wrapper-8 {
+  position: absolute;
+  width: 432px;
+  top: 222px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .group-17 {
+  position: absolute;
+  width: 86px;
+  height: 86px;
+  top: 0;
+  left: 173px;
+}
+
+.new-file-with-logo .how-does-it-work {
+  position: absolute;
+  top: 159px;
+  left: 648px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 31.5px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .group-18 {
+  position: absolute;
+  width: 1920px;
+  height: 948px;
+  top: 0;
+  left: 0;
+  background-color: #060606;
+}
+
+.new-file-with-logo .group-19 {
+  position: absolute;
+  width: 515px;
+  height: 463px;
+  top: 235px;
+  left: 318px;
+}
+
+.new-file-with-logo .biz-dev {
+  position: absolute;
+  width: 500px;
+  top: 181px;
+  left: 0;
+  font-family: "Roboto Condensed", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 38px;
+}
+
+.new-file-with-logo .text-wrapper-9 {
+  position: absolute;
+  width: 511px;
+  top: 263px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .group-20 {
+  position: absolute;
+  width: 130px;
+  height: 137px;
+  top: 0;
+  left: 0;
+}
+
+.new-file-with-logo .business {
+  position: absolute;
+  width: 680px;
+  height: 666px;
+  top: 134px;
+  left: 1044px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-21 {
+  position: absolute;
+  width: 1920px;
+  height: 1091px;
+  top: 7169px;
+  left: -3px;
+  background-color: #151414;
+}
+
+.new-file-with-logo .group-22 {
+  position: relative;
+  width: 1416px;
+  height: 609px;
+  top: 241px;
+  left: 253px;
+}
+
+.new-file-with-logo .clients-we-ve-worked {
+  position: absolute;
+  top: 0;
+  left: 234px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 96px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .group-23 {
+  position: absolute;
+  width: 1414px;
+  height: 397px;
+  top: 212px;
+  left: 0;
+}
+
+.new-file-with-logo .group-24 {
+  position: absolute;
+  width: 1414px;
+  height: 103px;
+  top: 294px;
+  left: 0;
+}
+
+.new-file-with-logo .element {
+  position: absolute;
+  width: 215px;
+  height: 101px;
+  top: 1px;
+  left: 360px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .element-2 {
+  position: absolute;
+  width: 183px;
+  height: 83px;
+  top: 9px;
+  left: 1231px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .element-3 {
+  position: absolute;
+  width: 217px;
+  height: 86px;
+  top: 8px;
+  left: 0;
+  object-fit: cover;
+}
+
+.new-file-with-logo .image-removebg {
+  position: absolute;
+  width: 370px;
+  height: 103px;
+  top: 0;
+  left: 718px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-25 {
+  position: absolute;
+  width: 962px;
+  height: 196px;
+  top: 0;
+  left: 226px;
+}
+
+.new-file-with-logo .element-4 {
+  position: absolute;
+  width: 149px;
+  height: 150px;
+  top: 23px;
+  left: 0;
+  object-fit: cover;
+}
+
+.new-file-with-logo .logo {
+  position: absolute;
+  width: 196px;
+  height: 196px;
+  top: 0;
+  left: 372px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .element-5 {
+  position: absolute;
+  width: 172px;
+  height: 171px;
+  top: 13px;
+  left: 790px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-26 {
+  position: absolute;
+  width: 1920px;
+  height: 948px;
+  top: 3006px;
+  left: -3px;
+  background-color: #060606;
+  border: 1px solid;
+  border-color: #767a7c;
+}
+
+.new-file-with-logo .group-27 {
+  position: absolute;
+  width: 549px;
+  height: 531px;
+  top: 234px;
+  left: 1110px;
+}
+
+.new-file-with-logo .hyper-scale-dialing {
+  position: absolute;
+  width: 465px;
+  top: 147px;
+  left: 0;
+  font-family: "HK Grotesk-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.new-file-with-logo .generate-a-high {
+  position: absolute;
+  width: 545px;
+  top: 331px;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .group-28 {
+  position: absolute;
+  width: 142px;
+  height: 103px;
+  top: 0;
+  left: 0;
+}
+
+.new-file-with-logo .mob {
+  position: absolute;
+  width: 545px;
+  height: 729px;
+  top: 142px;
+  left: 265px;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-29 {
+  position: absolute;
+  width: 1920px;
+  height: 1165px;
+  top: 6004px;
+  left: 0;
+  background-color: #060606;
+}
+
+.new-file-with-logo .group-30 {
+  position: relative;
+  width: 1922px;
+  height: 880px;
+  top: 143px;
+}
+
+.new-file-with-logo .group-31 {
+  position: absolute;
+  width: 116px;
+  height: 103px;
+  top: 11px;
+  left: 486px;
+}
+
+.new-file-with-logo .line {
+  top: 402px;
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.new-file-with-logo .line-2 {
+  top: 674px;
+  position: absolute;
+  width: 1920px;
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.new-file-with-logo .group-32 {
+  position: absolute;
+  width: 1043px;
+  height: 152px;
+  top: 203px;
+  left: 204px;
+}
+
+.new-file-with-logo .is-it-really-pay-per {
+  position: absolute;
+  width: 600px;
+  top: 0;
+  left: 0;
+  font-family: "Roboto", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .yes-we-only-want-to {
+  position: absolute;
+  width: 1039px;
+  top: 52px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .span {
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .group-33 {
+  position: absolute;
+  width: 1408px;
+  height: 159px;
+  top: 462px;
+  left: 204px;
+}
+
+.new-file-with-logo .what-does-AI-x {
+  position: absolute;
+  width: 1165px;
+  top: 0;
+  left: 0;
+  font-family: "HK Grotesk-SemiBoldLegacy", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .AI-x-emotional {
+  width: 1404px;
+  top: 59px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  line-height: 50px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.new-file-with-logo .text-wrapper-10 {
+  position: absolute;
+  top: 0;
+  left: 204px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: 144px;
+  white-space: nowrap;
+}
+
+.new-file-with-logo .group-34 {
+  position: absolute;
+  width: 1521px;
+  height: 152px;
+  top: 728px;
+  left: 204px;
+}
+
+.new-file-with-logo .how-will-your {
+  position: absolute;
+  width: 754px;
+  top: 0;
+  left: 0;
+  font-family: "HK Grotesk-SemiBoldLegacy", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 31.5px;
+}
+
+.new-file-with-logo .our-supercharged {
+  position: absolute;
+  width: 1517px;
+  top: 52px;
+  left: 0;
+  font-family: "HK Grotesk-Regular", Helvetica;
+  font-weight: 400;
+  color: #c9c9cb;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+}
+
+.new-file-with-logo .overlap-9 {
+  position: absolute;
+  width: 1961px;
+  height: 115px;
+  top: 0;
+  left: -21px;
+  background-color: #151414;
+}
+
+.new-file-with-logo .navbar {
+  position: absolute;
+  width: 720px;
+  height: 44px;
+  top: 46px;
+  left: 1050px;
+}
+
+.new-file-with-logo .text-wrapper-11 {
+  position: absolute;
+  width: 68px;
+  top: 0;
+  left: 644px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.new-file-with-logo .text-wrapper-12 {
+  position: absolute;
+  width: 89px;
+  top: 0;
+  left: 502px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.new-file-with-logo .text-wrapper-13 {
+  position: absolute;
+  width: 209px;
+  top: 0;
+  left: 240px;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.new-file-with-logo .text-wrapper-14 {
+  position: absolute;
+  width: 187px;
+  top: 0;
+  left: 0;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.new-file-with-logo .REVENUE-GROWTH {
+  position: absolute;
+  width: 146px;
+  top: 16px;
+  left: 210px;
+  -webkit-text-stroke: 1px #ffffff;
+  font-family: "HK Grotesk-BoldLegacy", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+}
+
+.new-file-with-logo .rectangle-3 {
+  position: absolute;
+  width: 1919px;
+  height: 733px;
+  top: 8601px;
+  left: -10352px;
+}
