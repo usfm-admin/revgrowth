@@ -33,7 +33,6 @@ a:hover {
 }
 
 .new-file-with-logo .div {
-  background-color: #ffffff;
   overflow: hidden;
   width: 1920px;
   height: 9254px;
@@ -94,15 +93,13 @@ a:hover {
 
 .new-file-with-logo .text-wrapper {
   position: absolute;
-  width: 1975px;
   top: 906px;
-  left: 442px;
+  padding: 20px;
   font-family: "HK Grotesk-Regular", Helvetica;
   font-weight: 400;
   color: #ffffff;
-  font-size: 32px;
+  font-size: 18px;
   letter-spacing: 0;
-  line-height: 31.5px;
 }
 
 .new-file-with-logo .group {
